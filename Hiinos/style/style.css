@@ -1,0 +1,84 @@
+body {
+    background-color: rgba(243, 229, 229, 0.856);
+}
+.conteudo h1{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: rgb(255, 29, 29);
+    color: white;
+    width: 75%;
+    border-radius: 13px;
+    margin-bottom: 10px;
+}
+.conteudo a {
+    font-size: larger;
+    text-decoration: none;
+    color: white;
+    margin-left: 45px;
+    width: max-content;
+    background-color: black;
+    border-radius: 5px;
+}
+.conteudo a:hover {
+    color: black;
+    background-color: rgb(255, 0, 0);
+}
+.conteudo hr{
+    color: rgb(255, 43, 43);
+    border-style: dashed;
+    margin: 10px;
+}
+.conteudo p {
+    margin-left: 1.5em;
+    font-size: large;
+}
+.fundo {
+    background-color: black;
+}
+.hino {
+    float: left;
+    width: 27%;
+}
+.hino p{
+    background-color: rgb(245, 245, 245);
+    max-width: max-content;
+    color: rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+.bandeira {
+    height: 100%;
+}
+.bandeira img {
+    width: 70%;
+    margin-top: 15px;
+    height: 69%;
+}
+.botom {
+    text-align: center;
+    height: 30%;
+    margin-top: 5%;
+}
+.botom a {
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+    background-color: initial;
+    border: solid white;
+    border-radius: 13px;
+}
+.botom a:hover {
+    color: initial;
+    background-color: white;
+    border: dotted red;
+}
+#a2 {
+    color:black;
+    background-color: initial;
+    margin-left: 0.5px;
+}
+#a2:hover {
+    color: rgb(255, 0, 0);
+}
